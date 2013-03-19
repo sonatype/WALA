@@ -16,6 +16,11 @@
 
   <build>
     <sourceDirectory>src</sourceDirectory>
+    <resources>
+      <resource>
+        <directory>/Users/rberg/repos/WALA/com.ibm.wala.core/dat</directory>
+      </resource>
+    </resources>
   </build>
 
   <dependencies>
